@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I am Pursuing my Bachelor's in Artificial Intelligence and will graduate in mid-2022.<br><br>👨‍💻 I enjoy Solving problems on Kaggle.<br><br>💬 Ask me about Python,Deep Learning, Computer Vision<br><br>📫 How to reach me amal512hi@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/amalhijazeai/<br><br>📚 I also love reading books on personal development & financial literacy.<br><br>⚡ Fun fact I think Playing sports made writing programs and solving problems easier
+🎓 I am Pursuing my Bachelor's in Artificial Intelligence and will graduate in mid-2022.<br><br>👨‍💻 I enjoy Solving problems on Kaggle.<br><br>💬 Ask me about Python,Deep Learning<br><br>📫 How to reach me amal512hi@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/amalhijazeai/<br><br>📚 I also love reading books on personal development & financial literacy.<br><br>⚡ Fun fact I think Playing sports made writing programs and solving problems easier
 
 
 ## 🌐 Socials:
