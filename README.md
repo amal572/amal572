@@ -14,7 +14,7 @@
 
 ---
 
-
+[![](https://visitcount.itsvg.in/api?id=amal572&icon=0&color=0)](https://visitcount.itsvg.in)
 <div>
             <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
                 <img
