@@ -1,3 +1,19 @@
+<h1 align="center">Hi there 👋! I'm Amal Hijaze</h1>
+
+<h3 align="center"><i>Physics Teacher and Data Scientist</i></h3>
+
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amalhijazeai/)&nbsp;&nbsp;
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.linkedin.com/in/amalhijazeai/)&nbsp;&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:clebiomojunior@gmail.com)](amal512hi@gmail.com)&nbsp;&nbsp;
+
+</div>
+
+<br>
+
+
+
 <h1 >Hi there 👋! I'm Amal Hijaze </h1>
 # 💫 About Me:
 🎓 I am Pursuing my Bachelor's in Artificial Intelligence and will graduate in mid-2022.<br><br>👨‍💻 I enjoy Solving problems on Kaggle.<br><br>💬 Ask me about Python,Deep Learning<br><br>📫 How to reach me amal512hi@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/amalhijazeai/<br><br>📚 I also love reading books on personal development & financial literacy.<br><br>⚡ Fun fact I think Playing sports made writing programs and solving problems easier
