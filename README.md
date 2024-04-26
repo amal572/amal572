@@ -30,7 +30,7 @@ For more details about my projects and each solution, they are described in the 
   	Airbnb's project aims to build an end-to-end data pipeline that extracts Airbnb prices in some of the most popular European cities from Kaggle. Each listing is evaluated for various attributes such as room types, cleanliness 
             and satisfaction ratings, bedrooms, distance from the city center, and more to capture an in-depth understanding of Airbnb prices on both weekdays and weekends.
 
-  ## Machine learning Projects
+## Machine learning Projects
 
 * ### [Credit Card Clustering](https://github.com/amal572/Credit-Card-Clustering.git)
 
