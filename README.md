@@ -30,6 +30,14 @@ For more details about my projects and each solution, they are described in the 
   	Airbnb's project aims to build an end-to-end data pipeline that extracts Airbnb prices in some of the most popular European cities from Kaggle. Each listing is evaluated for various attributes such as room types, cleanliness 
             and satisfaction ratings, bedrooms, distance from the city center, and more to capture an in-depth understanding of Airbnb prices on both weekdays and weekends.
 
+## application Projects with AI
+
+* ### [Credit Card Clustering](https://github.com/amal572/Credit-Card-Clustering.git)
+
+  	This project is unsupervised and aims to cluster credit cards based on customer-level data containing 18 behavioral variables, to define an effective marketing strategy. Techniques such as PCA, Kmeans, Agglomerative 
+            hierarchy, Gaussian Mixture, and Clustering with PyCaret are utilized for credit card clustering.
+
+
 ## Machine learning Projects
 
 * ### [Credit Card Clustering](https://github.com/amal572/Credit-Card-Clustering.git)
@@ -41,7 +49,7 @@ For more details about my projects and each solution, they are described in the 
 
   	This project is a regression problem that aims to predict the price of diamonds by training multiple models and determining the optimal performance score.
   
-* ### [Diamond-Price-Prediction](https://github.com/amal572/Diamond-Price-Prediction.git)
+* ### [Music_Genre_Classification](https://github.com/amal572/Music_Genre_Classification.git)
 
   	This project is a classification problem that aims to predict the class by training multiple classification models and determining the optimal performance score.
   
