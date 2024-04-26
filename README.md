@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋! I'm Amal Hijaze</h1>
 
-<h3 align="center"><i>Physics Teacher and Data Scientist</i></h3>
+<h3 align="center"><i>AI Engenering and Data Scientist</i></h3>
 
 <div align="center">
 
