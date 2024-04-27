@@ -40,6 +40,24 @@ For more details about my projects and each solution, they are described in the 
 
 ## Natural language processing Projects (NLP)
 
+* ### [Sentiment Analysis App](https://github.com/amal572/SentimentHotleAnalysis-Streamlit.git)
+
+  	A sentiment analysis application constructed using Streamlit (an open-source framework for building web applications in Python). Sentiment analysis stands as one of the most renowned applications of Natural Language Processing, 
+    applicable to various forms of data—whether it be text, audio, video, or image. This project's goal is to develop a web application dedicated to analyzing hotel reviews.
+
+* ### [Multi-task-Training-NER-and-Sentiment-Analysis](https://github.com/amal572/Multi-task-Training-NER-and-Sentiment-Analysis.git)
+
+  	MULTI-TASK TRAINING MODELS WITH HUGGING FACE Arabic TRANSFORMERS:
+    1- we work on Real Arabic Hotel Reviews to: classify them into good, natural, and bad reviews at the same time, we get the NER for each word.
+    2- Explore data then Clean it and Analysis the Result.
+    3- Using Huggingface Arabic Transformers such as Arabert, Marbert, and Qarib.
+    4- Build and Train a Multi-Task Model then we use it to Predict the test set for every single Task.
+
+* ### [Optimization-Accidents-hospitals-Algorithm-with-PuLP](https://github.com/amal572/Optimization-Accidents-hospitals-Algorithm-with-PuLP.git)
+
+  	Finding the optimal solution can be divided into five general steps: • Describing the problem. • Gathering the data. • Formulating the mathematical program. • Solving the mathematical program. • Performing some analysis and     
+    modifying the solution multiple times. • Presenting and analyzing the solution.
+
 * ### [Providing a title for a specific text](https://github.com/amal572/Providing-a-title-for-a-specific-text.git)
 
   	The project aims to generate a suitable title for a given text. We preprocess and segment the data, then train several models. Next, we take a specific piece of news from the test set and find the main topic of the text to provide a 
@@ -57,7 +75,7 @@ For more details about my projects and each solution, they are described in the 
 
     - Positive about the corona vaccine
     - Negative about the corona vaccine
-    - Tweets that are unrelated to the coronavaccine
+    - Tweets that are unrelated to the corona vaccine
 
 ## Computer Vision Projects
 
@@ -92,6 +110,26 @@ For more details about my projects and each solution, they are described in the 
 
   	In this project aimed at classifying various sounds (specifically breaking glass and shooting sounds), I utilized the ESC-50 dataset. However, since the ESC-50 dataset does not include shooting sounds, 
     I collected additional sound files, resulting in 532 wave files for analysis.
+
+* ### [Book Recommendation System](https://github.com/amal572/recomendation-system.git)
+
+  	This project consists of the following components:
+
+    1- Popularity Recommendation System:
+    
+    This system will recommend books based on their popularity, taking into account user ratings and the name of the author and publisher.
+  
+    2- Content-Based Recommendation System:
+
+    Utilizing features such as the name of the book, author, and publisher, this system will recommend books similar to those a user has liked.
+  
+    3- Collaborative Filtering System:
+
+    This system will recommend books based on the preferences of similar users. It will analyze user-item interactions to make personalized recommendations.
+  
+    4- Hybrid Recommendation System:
+
+    Integrating the results from the content-based and collaborative filtering systems, this hybrid system will provide enhanced recommendations by combining the strengths of both approaches.
 
 ## Fuzzy Projects
 
