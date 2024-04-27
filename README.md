@@ -38,6 +38,41 @@ For more details about my projects and each solution, they are described in the 
     preferences and interests through these recommendation methods. Additionally, the website provides a search feature where users can input descriptions or details of movies they are interested in, and the system will find relevant 
     recommendations based on the input.
 
+## Natural language processing Projects (NLP)
+
+* ### [Providing a title for a specific text](https://github.com/amal572/Providing-a-title-for-a-specific-text.git)
+
+  	The project aims to generate a suitable title for a given text. We preprocess and segment the data, then train several models. Next, we take a specific piece of news from the test set and find the main topic of the text to provide a 
+    suitable title. We extract the most important words from these topics and input them into the previous models to form the title. Then, we measure how closely these titles align with the given text, and titles are generated using the 
+    AraGPT2 model.
+
+* ### [Classification of Sounds](https://github.com/amal572/Classification-of-Sounds.git)
+
+  	In this project aimed at classifying various sounds (specifically breaking glass and shooting sounds), I utilized the ESC-50 dataset. However, since the ESC-50 dataset does not include shooting sounds, 
+    I collected additional sound files, resulting in 532 wave files for analysis.
+
+* ### [Classification Arabic Tweet](https://github.com/amal572/Nlp_tweet-project.git)
+
+  	In this project, I aim to classify Arabic tweets into three categories:
+
+    - Positive about the corona vaccine
+    - Negative about the corona vaccine
+    - Tweets that are unrelated to the coronavaccine
+
+## Computer Vision Projects
+
+* ### [PDF Vision Project](https://github.com/amal572/PDF-Vision-Project.git)
+
+  	In this project, we were tasked with creating a program to read files with the suffix PDF safely and comfortably. The program provides the following features:
+
+    - Reading in eye comfort mode, similar to most smart devices.
+    - Ability to convert the background of the pages to a color of the user's choice.
+    - Ability to convert the writing to a color of the user's choice.
+    - Ability to place a marker on the page of the book to continue reading from it.
+    - Ability to move between pages (scaling) depending on the movement of the iris of the eye.
+    - Ability to take a screenshot through the eyes.
+  
+
 ## Machine learning Projects
 
 * ### [Credit Card Clustering](https://github.com/amal572/Credit-Card-Clustering.git)
@@ -52,6 +87,11 @@ For more details about my projects and each solution, they are described in the 
 * ### [Music_Genre_Classification](https://github.com/amal572/Music_Genre_Classification.git)
 
   	This project is a classification problem that aims to predict the class by training multiple classification models and determining the optimal performance score.
+
+* ### [Classification of Sounds](https://github.com/amal572/Classification-of-Sounds.git)
+
+  	In this project aimed at classifying various sounds (specifically breaking glass and shooting sounds), I utilized the ESC-50 dataset. However, since the ESC-50 dataset does not include shooting sounds, 
+    I collected additional sound files, resulting in 532 wave files for analysis.
 
 ## Fuzzy Projects
 
