@@ -166,7 +166,8 @@ For more details about my projects and each solution, they are described in the 
   
 * ### [Ontology NLQ for AI](https://github.com/amal572/Ontology-NLQ-for-AI.git)
 
-This project focuses on developing an algorithm to standardize different ontologies according to the structure provided by the subject teacher. The ontologies consist of multiple XML files, each containing the name of an AI algorithm and its relation to it. The primary objective is to enable efficient searching within these ontologies using natural language queries, which are then converted into SPARQL language for querying.
+    This project focuses on developing an algorithm to standardize different ontologies according to the structure provided by the subject teacher. The ontologies consist of multiple XML files, each containing the name of an AI         
+    algorithm and its relation to it. The primary objective is to enable efficient searching within these ontologies using natural language queries, which are then converted into SPARQL language for querying.
   
 
 # 💻 Tech Stack:
