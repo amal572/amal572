@@ -162,7 +162,7 @@ For more details about my projects and each solution, they are described in the 
     The proposed palm tree irrigation control system from Al company is a multifaceted model that combines fuzzy logic technology with the Internet of Things (IoT) and cloud computing techniques. Data is collected from temperature and 
     soil moisture sensors, then the Fuzzy Logic system determines the correct amount of water the pump should supply to the palm trees.
 
-  ## Data Mining Projects
+## Data Mining Projects
   
 * ### [Ontology NLQ for AI](https://github.com/amal572/Ontology-NLQ-for-AI.git)
 
