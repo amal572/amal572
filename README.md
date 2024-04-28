@@ -15,13 +15,13 @@
 # 💫 About Me:
 🎓 I am an Artificial Intelligence Engineer with a fervent interest in cutting-edge technology.<br><br>
 
-My professional journey encompasses a diverse array of projects in analytics engineering, where I specialize in solving complex challenges within business and healthcare insurance domains. From data understanding to Data Ingestion, and from constructing data warehouses to designing data lakes, I excel in crafting star schemas (facts and dimensions) and conducting thorough data analysis via intuitive dashboards.
+My professional journey encompasses a diverse array of projects in analytics engineering, where I specialize in solving complex challenges within the business and healthcare insurance domains. From data understanding to Data Ingestion, and from constructing data warehouses to designing data lakes, I excel in crafting star schemas (facts and dimensions) and conducting thorough data analysis via intuitive dashboards.
 
 Moreover, I have spearheaded numerous projects in NLP engineering, delving deep into generation models. For comprehensive insights into my projects and solutions, I invite you to explore the NLP project section.
 
 Furthermore, my expertise extends to various projects in the realm of machine learning, encompassing both supervised and unsupervised problems. Additionally, I have undertaken several ventures in computer vision, demonstrating a multifaceted skill set.
 
-For more details about my projects and each solution, they are described in the data science project section.
+For more details about my projects and each solution, they are described in the every project section.
 
 ## Analytics Engineering Projects 
 
