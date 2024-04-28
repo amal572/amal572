@@ -37,6 +37,22 @@ For more details about my projects and each solution, they are described in the 
   	This website is dedicated to recommending movies to users based on various recommendation system techniques, including content-based, collaborative filtering, and hybrid approaches. Users can discover new movies tailored to their 
     preferences and interests through these recommendation methods. Additionally, the website provides a search feature where users can input descriptions or details of movies they are interested in, and the system will find relevant 
     recommendations based on the input.
+  
+* ### [Sales Forecasting Project](https://github.com/amal572/MLops_Forecast.git)
+
+  	This project focuses on predicting future sales quantities based on historical data of products. Leveraging real data, which includes detailed information on products and their respective quantities, the goal is to provide the 
+    company with accurate sell-out quantity forecasts. This information is crucial for informed decision-making and enables the company to manage its inventory and optimize supply chain processes effectively.
+
+* ### [Watcher](https://github.com/amal572/Watcher-Graduation-Project_WS.git)
+
+  Watcher is an AI system designed to assist parents in monitoring their children. With the increasing demands of modern life, parents often find themselves preoccupied with work, leaving them concerned about their children's safety, 
+  especially when they are home alone. Our project, Watcher, aims to address this concern by creating a system that detects potential dangers and promptly alerts parents. We sought to answer the following questions:
+
+  1. What kinds of dangers could kids face?
+  2. How can we detect these dangers in real-time?
+  3. How can we make the system function with just a mobile phone and a laptop?
+     
+  We have developed a system consisting of two main components: the backend, which receives video streams from a mobile phone camera and analyzes them, and a mobile app that parents use to manage the system and receive alerts.
 
 ## Natural language processing Projects (NLP)
 
