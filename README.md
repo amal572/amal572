@@ -13,7 +13,7 @@
 <br>
 
 # 💫 About Me:
-🎓 I am an Artificial Intelligence Engineer with a fervent interest in cutting-edge technology.<br><br>
+#### 🎓 I am an Artificial Intelligence Engineer with a fervent interest in cutting-edge technology.<br><br>
 
 My professional journey encompasses a diverse array of projects in analytics engineering, where I specialize in solving complex challenges within the business and healthcare insurance domains. From data understanding to Data Ingestion, and from constructing data warehouses to designing data lakes, I excel in crafting star schemas (facts and dimensions) and conducting thorough data analysis via intuitive dashboards.
 
