@@ -110,6 +110,13 @@ For more details about my projects and each solution, they are described in the 
 
   	The objective of this project is to create an image classification model that can predict Chest X-ray scans that belong to one of the three classes: Normal, Virus, and COVID with a reasonably high accuracy using pre-trained VGG-16 & 
     DenseNet models.
+  
+* ### [Age Detection](https://github.com/amal572/Age-detection.git)
+
+  	The Age Detection project utilizes images from "The Indian Actors" dataset. Leveraging Convolutional Neural Network (CNN) models, the project aims to classify the age of actors into two categories: young and old.
+    Using advanced deep learning techniques, the system analyzes facial features and patterns within the images to accurately determine the age group of the actors depicted. Using CNN models, the project achieves precise age 
+    classification, contributing to the development of robust image recognition systems.
+
 
 ## Machine learning Projects
 
