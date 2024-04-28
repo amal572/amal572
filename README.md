@@ -89,14 +89,18 @@ For more details about my projects and each solution, they are described in the 
     - Ability to place a marker on the page of the book to continue reading from it.
     - Ability to move between pages (scaling) depending on the movement of the iris of the eye.
     - Ability to take a screenshot through the eyes.
-  
+ 
+* ### [Detecting-COVID-19-with-chest-X-Ray](https://github.com/amal572/Detecting-COVID-19-with-chest-X-Ray.git)
+
+  	The objective of this project is to create an image classification model that can predict Chest X-ray scans that belong to one of the three classes: Normal, Virus, and COVID with a reasonably high accuracy using pre-trained VGG-16 & 
+    DenseNet models.
 
 ## Machine learning Projects
 
 * ### [Credit Card Clustering](https://github.com/amal572/Credit-Card-Clustering.git)
 
   	This project is unsupervised and aims to cluster credit cards based on customer-level data containing 18 behavioral variables, to define an effective marketing strategy. Techniques such as PCA, Kmeans, Agglomerative 
-            hierarchy, Gaussian Mixture, and Clustering with PyCaret are utilized for credit card clustering.
+    hierarchy, Gaussian Mixture, and Clustering with PyCaret are utilized for credit card clustering.
 
 * ### [Diamond-Price-Prediction](https://github.com/amal572/Diamond-Price-Prediction.git)
 
