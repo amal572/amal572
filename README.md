@@ -61,7 +61,7 @@ For more details about my projects and each solution, they are described in the 
   	A sentiment analysis application constructed using Streamlit (an open-source framework for building web applications in Python). Sentiment analysis stands as one of the most renowned applications of Natural Language Processing, 
     applicable to various forms of data—whether it be text, audio, video, or image. This project's goal is to develop a web application dedicated to analyzing hotel reviews.
 
-* ### [Multi-task-Training-NER-and-Sentiment-Analysis](https://github.com/amal572/Multi-task-Training-NER-and-Sentiment-Analysis.git)
+* ### [Multi-task Training NER and Sentiment Analysis](https://github.com/amal572/Multi-task-Training-NER-and-Sentiment-Analysis.git)
 
   	MULTI-TASK TRAINING MODELS WITH HUGGING FACE Arabic TRANSFORMERS:
     1- we work on Real Arabic Hotel Reviews to: classify them into good, natural, and bad reviews at the same time, we get the NER for each word.
@@ -69,7 +69,7 @@ For more details about my projects and each solution, they are described in the 
     3- Using Huggingface Arabic Transformers such as Arabert, Marbert, and Qarib.
     4- Build and Train a Multi-Task Model then we use it to Predict the test set for every single Task.
 
-* ### [Optimization-Accidents-hospitals-Algorithm-with-PuLP](https://github.com/amal572/Optimization-Accidents-hospitals-Algorithm-with-PuLP.git)
+* ### [Optimization Accidents hospitals Algorithm with PuLP](https://github.com/amal572/Optimization-Accidents-hospitals-Algorithm-with-PuLP.git)
 
   	Finding the optimal solution can be divided into five general steps: • Describing the problem. • Gathering the data. • Formulating the mathematical program. • Solving the mathematical program. • Performing some analysis and     
     modifying the solution multiple times. • Presenting and analyzing the solution.
@@ -106,7 +106,7 @@ For more details about my projects and each solution, they are described in the 
     - Ability to move between pages (scaling) depending on the movement of the iris of the eye.
     - Ability to take a screenshot through the eyes.
  
-* ### [Detecting-COVID-19-with-chest-X-Ray](https://github.com/amal572/Detecting-COVID-19-with-chest-X-Ray.git)
+* ### [Detecting COVID-19 with chest X-Ray](https://github.com/amal572/Detecting-COVID-19-with-chest-X-Ray.git)
 
   	The objective of this project is to create an image classification model that can predict Chest X-ray scans that belong to one of the three classes: Normal, Virus, and COVID with a reasonably high accuracy using pre-trained VGG-16 & 
     DenseNet models.
@@ -125,7 +125,7 @@ For more details about my projects and each solution, they are described in the 
   	This project is unsupervised and aims to cluster credit cards based on customer-level data containing 18 behavioral variables, to define an effective marketing strategy. Techniques such as PCA, Kmeans, Agglomerative 
     hierarchy, Gaussian Mixture, and Clustering with PyCaret are utilized for credit card clustering.
 
-* ### [Diamond-Price-Prediction](https://github.com/amal572/Diamond-Price-Prediction.git)
+* ### [Diamond Price Prediction](https://github.com/amal572/Diamond-Price-Prediction.git)
 
   	This project is a regression problem that aims to predict the price of diamonds by training multiple models and determining the optimal performance score.
   
